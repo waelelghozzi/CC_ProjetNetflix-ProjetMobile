@@ -1,0 +1,17 @@
+.card{
+    width:120px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size:30px;
+
+    margin:10px;
+    text-align: center;
+    transition: all 0.2s;
+    
+}
+.card:hover{
+  
+    border: 1px solid rgba(236, 236, 236, 0.603);
+    box-shadow: 0 0 20px rgba(235, 237, 238, 0.61);
+}

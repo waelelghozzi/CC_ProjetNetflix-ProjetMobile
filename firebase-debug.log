@@ -1,0 +1,21 @@
+[debug] [2022-11-26T17:50:06.033Z] ----------------------------------------------------------------------
+[debug] [2022-11-26T17:50:06.034Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\molka\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-26T17:50:06.035Z] CLI Version:   11.16.1
+[debug] [2022-11-26T17:50:06.035Z] Platform:      win32
+[debug] [2022-11-26T17:50:06.035Z] Node Version:  v16.18.0
+[debug] [2022-11-26T17:50:06.036Z] Time:          Sat Nov 26 2022 18:50:06 GMT+0100 (heure normale d’Europe centrale)
+[debug] [2022-11-26T17:50:06.036Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-26T17:50:06.044Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-26T17:50:06.044Z] > authorizing via signed-in user (molkatoubale23@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\molka\OneDrive\Bureau\Netflix\netflix
+

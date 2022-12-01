@@ -1,0 +1,30 @@
+.row{
+
+font-family: sans-serif;
+width: 100%;
+background-color: rgb(17, 17, 17);
+align-items: center;
+color: white;
+}
+.col{
+    color: white;
+    max-width: 100px;
+    text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp:2; /* number of lines to show */
+        line-clamp:2; 
+-webkit-box-orient: vertical;
+text-align: center;
+width:100%;
+}
+.tit{
+    width: 100%;
+    margin-left:10%;
+}
+p{
+    margin:0;
+    margin-left: 7.5%;
+    margin-bottom: 2%;
+    font-size: 25px;
+
+}

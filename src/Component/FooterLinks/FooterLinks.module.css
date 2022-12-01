@@ -1,0 +1,17 @@
+.itemsList{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.item{
+flex-basis: 25%;
+margin-bottom: 1rem;
+font-size: 0.8rem;
+}
+.item a{
+    text-decoration:none;
+    color:#808080
+}
